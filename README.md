@@ -1,8 +1,9 @@
-# setup-walkthrough
+# Setup-walkthrough
 This my walkthrough to set up a developer machine
 ***
 
 # Inital Setup
+Do these things first
 
 ## 1. [Homebrew](https://brew.sh/)
 
@@ -37,3 +38,8 @@ This my walkthrough to set up a developer machine
 **Summary for config**
 > `git config --global user.name "FIRST_NAME LAST_NAME"`
 > `git config --global user.email "MY_NAME@example.com"`
+
+
+## 6. Node
+
+> `brew install brew install node@16`

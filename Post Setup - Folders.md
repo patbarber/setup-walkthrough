@@ -1,8 +1,10 @@
 # Post install - setting up folders
 
+```markdown
 > cd ~
 > mkdir dev && cd dev
 > mkdir _working && mkdir archive && mkdir testing
+```
 
 ## Explaination
 

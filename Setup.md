@@ -27,6 +27,3 @@
 ### 6. spotify
 
 `brew install --cask spotify`
-
-
-***
