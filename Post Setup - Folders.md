@@ -23,3 +23,20 @@ A place to pull random projects or create test projects
 ### Further
 
 A `side` folder could be added for side projects but that's just for nerds
+
+***
+
+# Setting a global .gitignore
+
+Stop .vscode files and other pre generated folder and files.
+
+To add files follow the patter
+
+> [name].[extension]  eg. `*.ts` exclude all ts files
+
+Current .gitingore
+
+```
+.idea/*
+.vscode/*
+```
