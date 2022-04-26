@@ -42,4 +42,8 @@ Do these things first
 
 ## 6. Node
 
-> `brew install brew install node@16`
+> `brew install node@16`
+
+## 7. Yarn
+
+> `brew install yarn`
